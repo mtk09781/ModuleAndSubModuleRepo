@@ -1,0 +1,3 @@
+[submodule "libs/LibraryRepoa"]
+	path = libs/LibraryRepoa
+	url = https://github.com/mtk09781/submodule.git
